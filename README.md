@@ -2,6 +2,7 @@
 
 EyeQ-Test is a UI showcase project demonstrating different user interface components and designs.  
 This repository is intended as a reference for UI best practices, visual experimentation, and rapid prototyping.
+![image](https://github.com/user-attachments/assets/84961442-4c6a-4875-b47a-ab897c2b2baa)
 
 ## Features
 
